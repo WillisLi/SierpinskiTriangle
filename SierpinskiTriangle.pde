@@ -1,9 +1,6 @@
-PImage back;
-
 public void setup()
 {
   size(400, 400);
-  background
 }
 public void draw()
 {
